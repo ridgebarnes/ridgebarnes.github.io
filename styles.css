@@ -1,0 +1,29 @@
+body {background: darkolivegreen;
+    color: darkred;
+    font-size: 16pt;
+    font-family: "Times New Roman";
+    text-align: center;
+    }
+h1{
+    font-size: 250%;
+    font-weight: bold;
+
+}
+h2{
+    font-size: 150%;
+
+}
+h3{
+    color: black;
+}
+p{
+    color:black;
+}
+
+nav li{
+    display: inline-block;
+    border: 2px solid black;
+    padding: 10px;
+    background: white;
+    margin: 5px;
+}
